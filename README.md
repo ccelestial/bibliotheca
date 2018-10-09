@@ -13,5 +13,5 @@ List of reading materials for me to read. :) Feel free to add and/or suggest.
 - [Hyperledger Sawtooth Resources](https://www.hyperledger.org/resources)
 - [Running a “quick” Ethereum private network for experimentation and testing](https://medium.com/cybermiles/running-a-quick-ethereum-private-network-for-experimentation-and-testing-6b1c23605bce)
 
-### Nested Resources
+#### Nested Resources
 - [Book collection by Marco Antonio Govea](https://github.com/iMarcoGovea/books)
